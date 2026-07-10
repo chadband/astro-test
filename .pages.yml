@@ -3,7 +3,7 @@ media:
   output: /
 content:
   - name: bits
-    label: Bits n Bobs
+    label: Bits n Bobs.
     type: collection
     path: src/pages/cms
     fields:
