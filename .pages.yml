@@ -2,10 +2,10 @@ media:
   input: public
   output: /
 content:
-  - name: pages
-    label: Pages
+  - name: bits
+    label: Bits n Bobs
     type: collection
-    path: src/content/docs
+    path: src/pages/cms
     fields:
       - name: title
         type: string
