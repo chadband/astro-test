@@ -1,9 +1,11 @@
-media: media
+media:
+  input: public
+  output: /
 content:
   - name: pages
     label: Pages
     type: collection
-    path: docs
+    path: src/content/docs
     fields:
       - name: title
         type: string
